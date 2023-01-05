@@ -1,225 +1,152 @@
 id: I8B1FB7BB
-ocr_import_info: {}
-default_language: bo
-source: https://library.bdrc.io
-initial_creation_type: ocr
-imported: 2022-12-13 17:05:03.938546+00:00
-last_modified: 2022-12-13 17:05:03.938574+00:00
-source_metadata:
-  id: http://purl.bdrc.io/resource/W1PD95844
-  status: http://purl.bdrc.io/admindata/StatusReleased
-  access: http://purl.bdrc.io/admindata/AccessFairUse
-  geo_restriction:
-  - CN
-  reproduction_of: http://purl.bdrc.io/resource/MW1PD95844
-  copyright_status: http://purl.bdrc.io/resource/CopyrightPublicDomain
-  title: བསྟན་འགྱུར། ༼དཔེ་བསྡུར་མ༽
-  languages:
-  - bo
-statistics:
-  ocr_word_mean_confidence_index: 0.9754198299882526
-  ocr_word_median_confidence_index: 0.99999994
+imported: 2023-01-05 12:21:44.425790
+last_modified: 2023-01-05 12:21:44.425815
 bases:
-  v001:
-    source_metadata: {}
-    order: 1
-    base_file: v001.txt
+  I1PD95846:
+    base_file: I1PD95846.txt
     statistics:
       ocr_word_median_confidence_index: 0.9999999
       ocr_word_mean_confidence_index: 0.9755740258134236
-  v002:
-    source_metadata: {}
-    order: 2
-    base_file: v002.txt
+  I1PD95852:
+    base_file: I1PD95852.txt
     statistics:
       ocr_word_median_confidence_index: 0.9999999
       ocr_word_mean_confidence_index: 0.9755740258134236
-  v003:
-    source_metadata: {}
-    order: 3
-    base_file: v003.txt
+  I1PD95853:
+    base_file: I1PD95853.txt
     statistics:
       ocr_word_median_confidence_index: 0.9999999
       ocr_word_mean_confidence_index: 0.9755740258134236
-  v004:
-    source_metadata: {}
-    order: 4
-    base_file: v004.txt
+  I1PD95859:
+    base_file: I1PD95859.txt
     statistics:
       ocr_word_median_confidence_index: 0.9999999
       ocr_word_mean_confidence_index: 0.9755740258134236
-  v005:
-    source_metadata: {}
-    order: 5
-    base_file: v005.txt
+  I1PD95863:
+    base_file: I1PD95863.txt
     statistics:
       ocr_word_median_confidence_index: 0.9999999
       ocr_word_mean_confidence_index: 0.9755740258134236
-  v006:
-    source_metadata: {}
-    order: 6
-    base_file: v006.txt
+  I1PD95869:
+    base_file: I1PD95869.txt
     statistics:
       ocr_word_median_confidence_index: 0.9999999
       ocr_word_mean_confidence_index: 0.9755740258134236
-  v007:
-    source_metadata: {}
-    order: 7
-    base_file: v007.txt
+  I1PD95870:
+    base_file: I1PD95870.txt
     statistics:
       ocr_word_median_confidence_index: 0.9999999
       ocr_word_mean_confidence_index: 0.9755740258134236
-  v008:
-    source_metadata: {}
-    order: 8
-    base_file: v008.txt
+  I1PD95871:
+    base_file: I1PD95871.txt
     statistics:
       ocr_word_median_confidence_index: 0.9999999
       ocr_word_mean_confidence_index: 0.9755740258134236
-  v009:
-    source_metadata: {}
-    order: 9
-    base_file: v009.txt
+  I1PD95872:
+    base_file: I1PD95872.txt
     statistics:
       ocr_word_median_confidence_index: 0.9999999
       ocr_word_mean_confidence_index: 0.9755740258134236
-  v010:
-    source_metadata: {}
-    order: 10
-    base_file: v010.txt
+  I1PD95877:
+    base_file: I1PD95877.txt
     statistics:
       ocr_word_median_confidence_index: 0.9999999
       ocr_word_mean_confidence_index: 0.9755740258134236
-  v011:
-    source_metadata: {}
-    order: 11
-    base_file: v011.txt
+  I1PD95878:
+    base_file: I1PD95878.txt
     statistics:
       ocr_word_median_confidence_index: 0.9999999
       ocr_word_mean_confidence_index: 0.9755740258134236
-  v012:
-    source_metadata: {}
-    order: 12
-    base_file: v012.txt
+  I1PD95879:
+    base_file: I1PD95879.txt
     statistics:
       ocr_word_median_confidence_index: 0.9999999
       ocr_word_mean_confidence_index: 0.9755740258134236
-  v013:
-    source_metadata: {}
-    order: 13
-    base_file: v013.txt
+  I1PD95882:
+    base_file: I1PD95882.txt
     statistics:
       ocr_word_median_confidence_index: 0.9999999
       ocr_word_mean_confidence_index: 0.9755740258134236
-  v014:
-    source_metadata: {}
-    order: 14
-    base_file: v014.txt
+  I1PD95883:
+    base_file: I1PD95883.txt
     statistics:
       ocr_word_median_confidence_index: 0.9999999
       ocr_word_mean_confidence_index: 0.9755740258134236
-  v015:
-    source_metadata: {}
-    order: 15
-    base_file: v015.txt
+  I1PD95884:
+    base_file: I1PD95884.txt
     statistics:
       ocr_word_median_confidence_index: 0.9999999
       ocr_word_mean_confidence_index: 0.9755740258134236
-  v016:
-    source_metadata: {}
-    order: 16
-    base_file: v016.txt
+  I1PD95885:
+    base_file: I1PD95885.txt
     statistics:
       ocr_word_median_confidence_index: 0.9999999
       ocr_word_mean_confidence_index: 0.9755740258134236
-  v017:
-    source_metadata: {}
-    order: 17
-    base_file: v017.txt
+  I1PD95886:
+    base_file: I1PD95886.txt
     statistics:
       ocr_word_median_confidence_index: 0.9999999
       ocr_word_mean_confidence_index: 0.9755740258134236
-  v018:
-    source_metadata: {}
-    order: 18
-    base_file: v018.txt
+  I1PD95887:
+    base_file: I1PD95887.txt
     statistics:
       ocr_word_median_confidence_index: 0.9999999
       ocr_word_mean_confidence_index: 0.9755740258134236
-  v019:
-    source_metadata: {}
-    order: 19
-    base_file: v019.txt
+  I1PD95888:
+    base_file: I1PD95888.txt
     statistics:
       ocr_word_median_confidence_index: 0.9999999
       ocr_word_mean_confidence_index: 0.9755740258134236
-  v020:
-    source_metadata: {}
-    order: 20
-    base_file: v020.txt
+  I1PD95889:
+    base_file: I1PD95889.txt
     statistics:
       ocr_word_median_confidence_index: 0.9999999
       ocr_word_mean_confidence_index: 0.9755740258134236
-  v021:
-    source_metadata: {}
-    order: 21
-    base_file: v021.txt
+  I1PD95891:
+    base_file: I1PD95891.txt
     statistics:
       ocr_word_median_confidence_index: 0.9999999
       ocr_word_mean_confidence_index: 0.9755740258134236
-  v022:
-    source_metadata: {}
-    order: 22
-    base_file: v022.txt
+  I1PD95892:
+    base_file: I1PD95892.txt
     statistics:
       ocr_word_median_confidence_index: 0.9999999
       ocr_word_mean_confidence_index: 0.9755740258134236
-  v023:
-    source_metadata: {}
-    order: 23
-    base_file: v023.txt
+  I1PD95902:
+    base_file: I1PD95902.txt
     statistics:
       ocr_word_median_confidence_index: 0.9999999
       ocr_word_mean_confidence_index: 0.9755740258134236
-  v024:
-    source_metadata: {}
-    order: 24
-    base_file: v024.txt
+  I1PD95942:
+    base_file: I1PD95942.txt
     statistics:
       ocr_word_median_confidence_index: 0.9999999
       ocr_word_mean_confidence_index: 0.9755740258134236
-  v025:
-    source_metadata: {}
-    order: 25
-    base_file: v025.txt
+  I1PD95954:
+    base_file: I1PD95954.txt
     statistics:
       ocr_word_median_confidence_index: 0.9999999
       ocr_word_mean_confidence_index: 0.9755740258134236
-  v026:
-    source_metadata: {}
-    order: 26
-    base_file: v026.txt
+  I1PD95959:
+    base_file: I1PD95959.txt
     statistics:
       ocr_word_median_confidence_index: 0.9999999
       ocr_word_mean_confidence_index: 0.9755740258134236
-  v027:
-    source_metadata: {}
-    order: 27
-    base_file: v027.txt
+  I1PD95960:
+    base_file: I1PD95960.txt
     statistics:
       ocr_word_median_confidence_index: 0.9999999
       ocr_word_mean_confidence_index: 0.9755740258134236
-  v028:
-    source_metadata: {}
-    order: 28
-    base_file: v028.txt
+  I1PD95961:
+    base_file: I1PD95961.txt
     statistics:
       ocr_word_median_confidence_index: 0.9999999
       ocr_word_mean_confidence_index: 0.9755740258134236
-  v029:
-    source_metadata: {}
-    order: 29
-    base_file: v029.txt
+  I1PD95965:
+    base_file: I1PD95965.txt
     statistics:
       ocr_word_median_confidence_index: 0.9999999
       ocr_word_mean_confidence_index: 0.9755740258134236
+copyright:
+  status: Unknown
+  notice: ''
