@@ -1,0 +1,12 @@
+id: I8B1FB7BB
+imported: 2023-01-06 10:31:04.381563
+last_modified: 2023-01-06 10:31:04.381584
+bases:
+  I1PD95885:
+    base_file: I1PD95885.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.9999999
+      ocr_word_mean_confidence_index: 0.9755740258134236
+copyright:
+  status: Unknown
+  notice: ''
